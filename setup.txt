@@ -1,0 +1,5 @@
+networkx
+matplotlib
+torch
+torch_geometric
+notebook
